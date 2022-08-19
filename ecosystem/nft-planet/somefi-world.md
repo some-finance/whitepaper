@@ -1,3 +1,3 @@
 # SomeFi World
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (8).png>)

@@ -7,6 +7,8 @@
 * [Mission](guides/creating-your-first-project.md)
 * [Vision](guides/creating-your-first-task.md)
 * [Transformation](overview/transformation.md)
+* [Tokenomic](overview/tokenomic.md)
+* [Roadmap](overview/roadmap.md)
 
 ## ECOSYSTEM
 
@@ -14,11 +16,13 @@
 * [NFT Planet](ecosystem/nft-planet/README.md)
   * [SomeFi World](ecosystem/nft-planet/somefi-world.md)
   * [Land](ecosystem/nft-planet/land.md)
+  * [NFT Exhibition](ecosystem/nft-planet/nft-exhibition.md)
 * [Game & Dapp](ecosystem/game-and-dapp.md)
 * [Community](ecosystem/community.md)
 * [DAO Scheme](ecosystem/dao-scheme.md)
 * [Marketplace](ecosystem/marketplace.md)
 * [DeFi](ecosystem/defi.md)
+* [Token](ecosystem/token.md)
 
 ## Activity
 
@@ -26,3 +30,5 @@
 * [Entertainment Area](activity/entertainment-area.md)
 * [Hang-Out Area](activity/hang-out-area.md)
 * [Distributed Storage](activity/distributed-storage.md)
+* [Reward](activity/reward.md)
+* [Virtual Tour](activity/virtual-tour.md)
