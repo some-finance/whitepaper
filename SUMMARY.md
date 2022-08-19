@@ -4,15 +4,15 @@
 
 ## Overview
 
-* [Mission](overview/mission.md)
-* [Vision](overview/vision.md)
+* [Mission](guides/creating-your-first-project.md)
+* [Vision](guides/creating-your-first-task.md)
 
 ## ECOSYSTEM
 
-* [Projects](ecosystem/projects.md)
-* [Members](ecosystem/members.md)
-* [Task Lists](ecosystem/task-lists.md)
-* [Tasks](ecosystem/tasks.md)
+* [Projects](fundamentals/projects.md)
+* [Members](fundamentals/members.md)
+* [Task Lists](fundamentals/task-lists.md)
+* [Tasks](fundamentals/tasks.md)
 
 ## Use Cases
 
