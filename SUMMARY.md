@@ -10,7 +10,8 @@
 ## ECOSYSTEM
 
 * [NFT Planet](ecosystem/nft-planet/README.md)
-  * [SomeFI World](ecosystem/nft-planet/somefi-world.md)
+  * [SomeFi World](ecosystem/nft-planet/somefi-world.md)
+  * [Land](ecosystem/nft-planet/land.md)
 * [Game & Dapp](ecosystem/game-and-dapp.md)
 * [Community](ecosystem/community.md)
 
