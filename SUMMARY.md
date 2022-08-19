@@ -2,18 +2,17 @@
 
 * [What is SomeFi Network?](README.md)
 
-## Guides
+## Overview
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Mission](overview/mission.md)
+* [Vision](overview/vision.md)
 
-## Fundamentals
+## ECOSYSTEM
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Projects](ecosystem/projects.md)
+* [Members](ecosystem/members.md)
+* [Task Lists](ecosystem/task-lists.md)
+* [Tasks](ecosystem/tasks.md)
 
 ## Use Cases
 
