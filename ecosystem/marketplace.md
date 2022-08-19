@@ -6,4 +6,4 @@ Each transaction will also generate a 5% transaction fee, and 50% of which will 
 
 
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
