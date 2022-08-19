@@ -9,10 +9,10 @@
 
 ## ECOSYSTEM
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [NFT Planet](ecosystem/nft-planet/README.md)
+  * [SomeFI World](ecosystem/nft-planet/somefi-world.md)
+* [Game & Dapp](ecosystem/game-and-dapp.md)
+* [Community](ecosystem/community.md)
 
 ## Use Cases
 
