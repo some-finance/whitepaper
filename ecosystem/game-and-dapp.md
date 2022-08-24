@@ -1,3 +1,10 @@
+---
+description: >-
+  With an All-in-one crypto social media serving as the backbone of the entire
+  ecosystem, the integrations of different Games/Dapp ecosytem and community
+  buidling via Metaverse as core features to conne
+---
+
 # Game & Dapp
 
 Other projects can build on the platform of SomeFi Network.

@@ -1,18 +1,14 @@
 # Table of contents
 
+## Introduction
+
 * [What is SomeFi Network?](README.md)
-
-## Overview
-
-* [Mission](guides/creating-your-first-project.md)
-* [Vision](guides/creating-your-first-task.md)
-* [Transformation](overview/transformation.md)
-* [Tokenomic](overview/tokenomic.md)
-* [Roadmap](overview/roadmap.md)
+* [Mission](introduction/mission.md)
+* [Vision](introduction/vision.md)
+* [Transformation](introduction/transformation.md)
 
 ## ECOSYSTEM
 
-* [Overview](ecosystem/overview.md)
 * [NFT Planet](ecosystem/nft-planet/README.md)
   * [SomeFi World](ecosystem/nft-planet/somefi-world.md)
   * [Land](ecosystem/nft-planet/land.md)
@@ -22,7 +18,6 @@
 * [DAO Scheme](ecosystem/dao-scheme.md)
 * [Marketplace](ecosystem/marketplace.md)
 * [DeFi](ecosystem/defi.md)
-* [Token Use-cases](ecosystem/token.md)
 
 ## SocialFi World - Somefi City map
 
@@ -32,3 +27,12 @@
 * [Distributed Storage](activity/distributed-storage.md)
 * [Reward](activity/reward.md)
 * [Virtual Tour](activity/virtual-tour.md)
+
+## ROADMAP
+
+* [Roadmap](roadmap/roadmap.md)
+
+## TOKENOMICS
+
+* [Tokenomic](tokenomics/tokenomic.md)
+* [Token Use-cases](tokenomics/token-use-cases.md)
