@@ -1,8 +1,6 @@
 # DAO Scheme
 
-DAO stands for Decentralized Autonomous Organization. DAO owns the most important smart contracts and assets in the ecosystem. In the first fully decentralized world, SomeFi Network is controlled via the DAO. Users can control the policies created to determine the behavior of the world. The community will propose and vote on policy updates, future LAND auctions, whitelisting of NFT contracts to be allowed inside the World, Builder and Marketplace, and whatever the community deems relevant. &#x20;
-
-The management and decision making of SomeFi City is controlled by a ‘DAO’ organization, which uses ‘smartcontracts that lay down the ground rules and allow public scrutiny of its operations. The token in circulation are the management and voting warrants of the DAO organization.&#x20;
+&#x20;The management and decision making of SomeFi City is controlled by a ‘DAO’ organization, which uses ‘smartcontracts that lay down the ground rules and allow public scrutiny of its operations. The token in circulation are the management and voting warrants of the DAO organization.&#x20;
 
 The management and decision making of SomeFi City is controlled by a ‘DAO’ organization, which uses ‘smartcontracts that lay down the ground rules and allow public scrutiny of its operations. The token in circulation are the management and voting warrants of the DAO organization.
 

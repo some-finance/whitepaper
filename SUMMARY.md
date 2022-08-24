@@ -20,13 +20,13 @@
 
 ## SocialFi World - Somefi City map
 
+* [SomeFi World](socialfi-world-somefi-city-map/somefi-world.md)
 * [AMA Space](activity/ama-space.md)
 * [Entertainment Area](activity/entertainment-area.md)
 * [Hang-Out Area](activity/hang-out-area.md)
-* [Distributed Storage](activity/distributed-storage.md)
-* [Reward](activity/reward.md)
 * [Virtual Tour](activity/virtual-tour.md)
-* [SomeFi World](socialfi-world-somefi-city-map/somefi-world.md)
+* [NFT Exhibition](socialfi-world-somefi-city-map/nft-exhibition.md)
+* [DAO Voting Commitee](socialfi-world-somefi-city-map/dao-voting-commitee.md)
 
 ## ROADMAP
 
