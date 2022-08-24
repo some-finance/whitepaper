@@ -16,6 +16,7 @@
 * [SocialFi](ecosystem/socialfi.md)
 * [GameFi](ecosystem/gamefi.md)
 * [DAO Scheme](ecosystem/dao-scheme.md)
+* [Treasury](ecosystem/treasury.md)
 
 ## SocialFi World - Somefi City map
 
