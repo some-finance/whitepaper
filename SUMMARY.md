@@ -22,13 +22,13 @@
 * [DAO Scheme](ecosystem/dao-scheme.md)
 * [Marketplace](ecosystem/marketplace.md)
 * [DeFi](ecosystem/defi.md)
-* [Token](ecosystem/token.md)
+* [Token Use-cases](ecosystem/token-use-cases.md)
 
-## Activity
+## SocialFi World - Somefi City map
 
-* [AMA Space](activity/ama-space.md)
-* [Entertainment Area](activity/entertainment-area.md)
-* [Hang-Out Area](activity/hang-out-area.md)
-* [Distributed Storage](activity/distributed-storage.md)
-* [Reward](activity/reward.md)
-* [Virtual Tour](activity/virtual-tour.md)
+* [AMA Space](socialfi-world-somefi-city-map/ama-space.md)
+* [Entertainment Area](socialfi-world-somefi-city-map/entertainment-area.md)
+* [Hang-Out Area](socialfi-world-somefi-city-map/hang-out-area.md)
+* [Distributed Storage](socialfi-world-somefi-city-map/distributed-storage.md)
+* [Reward](socialfi-world-somefi-city-map/reward.md)
+* [Virtual Tour](socialfi-world-somefi-city-map/virtual-tour.md)
