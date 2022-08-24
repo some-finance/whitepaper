@@ -29,11 +29,11 @@
 * [DAO Voting Commitee](socialfi-world-somefi-city-map/dao-voting-commitee.md)
 * [Marketplace](socialfi-world-somefi-city-map/marketplace.md)
 
-## ROADMAP
-
-* [Roadmap](overview/roadmap.md)
-
 ## TOKENOMICS
 
 * [Tokenomic](overview/tokenomic.md)
 * [Token Use-cases](ecosystem/token.md)
+
+## ROADMAP
+
+* [Roadmap](overview/roadmap.md)
