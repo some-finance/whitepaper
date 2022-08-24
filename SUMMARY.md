@@ -20,7 +20,6 @@
 
 ## SocialFi World - Somefi City map
 
-* [SomeFi World](socialfi-world-somefi-city-map/somefi-world.md)
 * [AMA Space](activity/ama-space.md)
 * [Entertainment Area](activity/entertainment-area.md)
 * [Hang-Out Area](activity/hang-out-area.md)
