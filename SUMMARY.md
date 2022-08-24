@@ -16,7 +16,6 @@
 * [SocialFi](ecosystem/socialfi.md)
 * [GameFi](ecosystem/gamefi.md)
 * [DAO Scheme](ecosystem/dao-scheme.md)
-* [Marketplace](ecosystem/marketplace.md)
 
 ## SocialFi World - Somefi City map
 
@@ -27,6 +26,7 @@
 * [Virtual Tour](activity/virtual-tour.md)
 * [NFT Exhibition](socialfi-world-somefi-city-map/nft-exhibition.md)
 * [DAO Voting Commitee](socialfi-world-somefi-city-map/dao-voting-commitee.md)
+* [Marketplace](socialfi-world-somefi-city-map/marketplace.md)
 
 ## ROADMAP
 
