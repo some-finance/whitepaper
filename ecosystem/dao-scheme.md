@@ -2,10 +2,6 @@
 
 &#x20;The management and decision making of SomeFi City is controlled by a ‘DAO’ organization, which uses ‘smartcontracts that lay down the ground rules and allow public scrutiny of its operations. The token in circulation are the management and voting warrants of the DAO organization.&#x20;
 
-The management and decision making of SomeFi City is controlled by a ‘DAO’ organization, which uses ‘smartcontracts that lay down the ground rules and allow public scrutiny of its operations. The token in circulation are the management and voting warrants of the DAO organization.
-
-
-
 **DAO interests**
 
 * Including but not limited to the following interests DAO ensure the liquidity of the game's assets. Providing a more reasonable incentive for the liquidity provider to form a long-term mutually beneficial relationship with the agreement, increasing the scope of control.
