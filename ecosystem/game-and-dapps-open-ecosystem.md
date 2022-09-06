@@ -1,8 +1,8 @@
 ---
 description: >-
   With an All-in-one crypto social media serving as the backbone of the entire
-  ecosystem, the integrations of different Games/Dapp ecosystems  and community
-  building a Metaverse as core features
+  ecosystem, the integrations of different Games/Dapp ecosytem and community
+  buidling via Metaverse as core features to conne
 ---
 
 # Game & Dapps open ecosystem
