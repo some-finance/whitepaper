@@ -10,7 +10,7 @@
 
 * Both the initiation of proposals and the act of voting require the use of SOFI Token.
 * Proposals must be initiated using at least 3% of the total amount of  SOFI Token in circulation.
-* The sponsor of the proposal must also vote for one of the options using the SOFI  Token tokens used to initiate the proposal.
-* The SOFI Token tokens used for voting will be locked in a smart contract until the voting is completed.
+* The sponsor of the proposal must also vote for one of the options using the SOFI token used to initiate the proposal.
+* The SOFI tokens used for voting will be locked in a smart contract until the voting is completed.
 
 ![](<../.gitbook/assets/image (4).png>)
